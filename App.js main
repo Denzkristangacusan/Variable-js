@@ -1,0 +1,12 @@
+let name = "Denz kristan Gacusan";
+
+let WhatDoYouWannaBecomeInYourLife = "programmer";
+
+let gender = "male";
+
+let twitterhandle = "@Denz7879";
+
+console.log(name);
+console.log(WhatDoYouWannaBecomeInYourLife);
+console.log(gender);
+console.log(twitterhandle);
